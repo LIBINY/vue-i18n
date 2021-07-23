@@ -1,3 +1,10 @@
+/*
+ * @Description:路由
+ * @Autor: clb
+ * @Date: 2021-07-23 15:09:40
+ * @LastEditors: clb
+ * @LastEditTime: 2021-07-23 15:19:18
+ */
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
